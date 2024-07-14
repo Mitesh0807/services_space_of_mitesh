@@ -1,0 +1,9 @@
+{
+  "name": "comman",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "comman/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project comman --web",
+  "targets": {}
+}
